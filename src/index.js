@@ -6,8 +6,6 @@ import * as serviceWorker from "./serviceWorker";
 import { GithubProvider } from "./context/context";
 import { Auth0Provider } from "@auth0/auth0-react";
 
-const client = `${process.env.REACT_APP_DOMAIN}`;
-const man = `${process.env.REACT_APP_CLIENTID}`;
 
 ReactDOM.render(
   <React.StrictMode>

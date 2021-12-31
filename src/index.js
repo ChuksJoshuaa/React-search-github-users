@@ -12,8 +12,8 @@ const man = `${process.env.REACT_APP_CLIENTID}`;
 ReactDOM.render(
   <React.StrictMode>
     <Auth0Provider
-      domain={client}
-      clientId={man}
+      domain="c-chuks.us.auth0.com"
+      clientId="oqBF1Ppy01BVIkq4Z7NRKRJn7MKRSVsf"
       redirectUri={window.location.origin}
       cacheLocation="localstorage"
     >

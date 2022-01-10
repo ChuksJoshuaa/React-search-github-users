@@ -52,7 +52,7 @@ version used - "react-router-dom": "^5.2.0",
 - [Followers](https://api.github.com/users/Chuksmbanaso/followers)
 - [Rate Limit](https://api.github.com/rate_limit)
 
-  For unauthenticated requests, the rate limit allows for up to 60 requests per hour. Unauthenticated requests are associated with the originating IP address, and not the user making requests.
+  For unauthenticated requests, the rate limit allows for up to 60 requests per hour. Unauthenticated requests are associated with the originating IP address, and not the user making requests..
 
 ## Fusion Charts
 
